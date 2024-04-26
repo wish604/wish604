@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 <picture>
   <soure media="(perfers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake-dark.svg">
   <soure media="(perfers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake.svg">
