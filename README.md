@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
-  <soure media="(perfers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake-dark.svg"/>
-  <soure media="(perfers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake.svg>"/>
+  <soure media="(perfers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake-dark.svg">
+  <soure media="(perfers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wish604/wish604/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
 **wish604/wish604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
